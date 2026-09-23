@@ -6,7 +6,7 @@ I’m a Computer Science Engineering student at **Saveetha School of Engineering
 
 I enjoy working with Java, Python, web technologies, data structures, automation, and database-driven applications.
 
-**[Portfolio](imaginative-beignet-0997ba.netlify.app) · [LinkedIn](https://www.linkedin.com/in/manojcse123/) · [LeetCode](https://leetcode.com/u/Manoj_04102007/)**
+**[Portfolio](https://imaginative-beignet-0997ba.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/manojcse123/) · [LeetCode](https://leetcode.com/u/Manoj_04102007/)**
 
 ---
 
