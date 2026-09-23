@@ -4,7 +4,7 @@
 
 I’m a Computer Science Engineering student at **Saveetha School of Engineering**, focused on building practical software projects and developing toward **Java backend and full-stack development**.
 
-I enjoy working with Java, C++, web technologies, data structures, automation, and database-driven applications.
+I enjoy working with Java, Python, web technologies, data structures, automation, and database-driven applications.
 
 **[Portfolio](https://github.com/manoj-devs/manoj-portfolio) · [LinkedIn](https://www.linkedin.com/in/manojcse123/) · [LeetCode](https://leetcode.com/u/Manoj_04102007/)**
 
@@ -14,9 +14,7 @@ I enjoy working with Java, C++, web technologies, data structures, automation, a
 
 ### Programming
 - Java
-- C++
-- C
-- JavaScript
+- Python
 
 ### Web Development
 - HTML
@@ -45,8 +43,6 @@ I enjoy working with Java, C++, web technologies, data structures, automation, a
 ### Tools
 - Git
 - GitHub
-- VS Code
-- Selenium
 
 ---
 
