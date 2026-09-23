@@ -1,48 +1,213 @@
-# Manoj Personal Portfolio
+# Manoj M
 
-Personal developer portfolio for Manoj M.
+### Computer Science Engineering Student | Java | Full-Stack Development
 
-## Structure
+I’m a Computer Science Engineering student at **Saveetha School of Engineering**, focused on building practical software projects and developing toward **Java backend and full-stack development**.
 
-- `public/index.html` — portfolio page
-- `public/styles.css` — responsive styling
-- `public/app.js` — navigation, animations, project case-study modal
-- `public/resume.html` — print/PDF-friendly resume source
-- `api/resume.js` — Hatchable endpoint that renders `resume.html` as a PDF
+I enjoy working with Java, C++, web technologies, data structures, automation, and database-driven applications.
 
-## Current stack
+**[Portfolio](https://github.com/manoj-devs/manoj-portfolio) · [LinkedIn](https://www.linkedin.com/in/manojcse123/) · [LeetCode](https://leetcode.com/u/Manoj_04102007/)**
 
+---
+
+## 🚀 Skills
+
+### Programming
+- Java
+- C++
+- C
+- JavaScript
+
+### Web Development
 - HTML
 - CSS
-- Vanilla JavaScript
-- Hatchable public static files + API endpoint
+- JavaScript
 
-## Run locally
+### Backend
+- Java
+- Spring Boot — **Currently Learning**
+- REST APIs — **Currently Learning**
 
-For the portfolio UI, serve the `public` directory with any static HTTP server.
+### Databases
+- MySQL
+- SQLite
 
-```bash
-cd public
-python -m http.server 8000
+### Data Structures
+- Arrays
+- Strings
+- 2D Arrays
+- Linked Lists
+- Stack
+- Queue
+- Hash Table
+- Priority Queue
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Selenium
+
+---
+
+# 💻 Featured Projects
+
+## 1. SkillAI
+
+### AI-Powered Adaptive Skill Development Platform
+
+SkillAI is an in-development platform designed to create personalized learning plans based on a user's **goal, available study time, skill level, and progress**.
+
+**Planned capabilities:**
+- Adaptive daily learning plans
+- Weak-area tracking
+- Progress analytics
+- Rewards, XP, and streaks
+- AI-assisted recommendations
+
+**Technology direction:** `Java` `Spring Boot` `React` `Database` `AI`
+
+**Status:** 🚧 In Development
+
+---
+
+## 2. PrintEase
+
+### Data Structure-Based Campus Printing System
+
+PrintEase is a campus printing system that uses data structures as part of the actual system design.
+
+| Data Structure | Purpose |
+|---|---|
+| Queue | FCFS print requests |
+| Priority Queue | Priority-based printing |
+| Hash Table | Fast lookup |
+| Linked List | Print history |
+| Stack | Undo operations |
+
+**Technology:** `C++` `HTML` `CSS` `JavaScript` `PDF.js` `Tesseract` `LocalStorage`
+
+---
+
+## 3. VStudy Course Monitor
+
+### Automated Academic Monitoring System
+
+An automation project designed to monitor academic course information, detect relevant changes, store results, and send notifications.
+
+**Workflow:**
+
+`VStudy → Selenium → Course Data → SQLite → Change Detection → Telegram`
+
+**Technology:** `Python` `Selenium` `SQLite` `Telegram`
+
+---
+
+# 🧠 DSA & Problem Solving
+
+I practice Data Structures and Algorithms with an emphasis on understanding both **brute-force and optimized approaches**, along with time and space complexity.
+
+**Practice areas:**
+- Arrays and Strings
+- Matrix problems
+- Searching
+- Sorting
+- Linked Lists
+- Stack and Queue
+- Hashing
+- Interview-style problems
+
+**LeetCode:** [Manoj_04102007](https://leetcode.com/u/Manoj_04102007/)
+
+---
+
+# 📚 Currently Learning
+
+My current learning path is focused on building a strong **Java Full-Stack Development** foundation:
+
+```text
+Java
+  ↓
+OOP & Collections
+  ↓
+SQL / MySQL
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+React
+  ↓
+Full-Stack Applications
+  ↓
+Deployment
 ```
 
-Then open `http://localhost:8000`.
+---
 
-The `/api/resume` endpoint is Hatchable-specific. If you run locally, open `resume.html` directly or use a local PDF renderer.
+# 🎯 Career Direction
 
-## Updating the portfolio
+My current focus is becoming a **Java Full-Stack Developer**, with particular interest in:
 
-Edit the files under `public/`.
+- Backend development
+- REST API development
+- Database-driven applications
+- Frontend integration
+- Software engineering fundamentals
+- Problem solving and DSA
 
-- Main content: `public/index.html`
-- Styling: `public/styles.css`
-- Interactions: `public/app.js`
-- Resume: `public/resume.html`
+---
 
-Keep `api/resume.js` when deploying the project to Hatchable if you want the Resume button to generate a PDF.
+# 📂 Portfolio Repository
 
-## Profile links
+This repository contains the source code for my personal portfolio, including the portfolio UI, project information, resume source, styling, and JavaScript interactions.
 
-- GitHub: https://github.com/manoj-devs
-- LinkedIn: https://www.linkedin.com/in/manojcse123/
-- LeetCode: https://leetcode.com/u/Manoj_04102007/
+```text
+manoj-portfolio/
+├── public/
+│   ├── index.html
+│   ├── styles.css
+│   ├── app.js
+│   └── resume.html
+├── api/
+│   └── resume.js
+└── README.md
+```
+
+---
+
+# 📈 What I'm Building Toward
+
+```text
+DSA + Problem Solving
+        ↓
+      Java
+        ↓
+    Spring Boot
+        ↓
+    REST APIs
+        ↓
+  MySQL / SQL
+        ↓
+      React
+        ↓
+ Java Full-Stack Projects
+```
+
+The goal is to turn individual skills into **real, working applications** and continuously improve through projects and problem solving.
+
+---
+
+# 📫 Contact
+
+**Manoj M**  
+📧 [manojakm149@gmail.com](mailto:manojakm149@gmail.com)  
+📱 9363306894
+
+- **GitHub:** [manoj-devs](https://github.com/manoj-devs)
+- **LinkedIn:** [manojcse123](https://www.linkedin.com/in/manojcse123/)
+- **LeetCode:** [Manoj_04102007](https://leetcode.com/u/Manoj_04102007/)
+
+---
+
+> Building projects. Learning consistently. Improving one problem at a time.
